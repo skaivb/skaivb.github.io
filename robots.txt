@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://skaivb.github.io/KfX/sitemap.KfX.gz
